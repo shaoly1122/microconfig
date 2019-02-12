@@ -30,6 +30,6 @@ eureka:
     service-url:
       defaultZone: http://edmin:mldnjava@eureka-config.com:7301/eureka
 info:
-  app.name: mldn-microcloud-beta-4
+  app.name: mldn-microcloud-beta-5
   company.name: www.mldnjava.cn
-  app.version: v-beta-2.1.4
+  app.version: v-beta-2.1.5
